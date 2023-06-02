@@ -1,6 +1,3 @@
-[submodule "libObfuscate"]
-	path = libObfuscate
-	url = git@github.com:tweqx/libObfuscate.git
 [submodule "libobfuscate/libObfuscate"]
 	path = libobfuscate/libObfuscate
 	url = git@github.com:tweqx/libObfuscate.git
