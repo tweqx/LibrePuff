@@ -1,0 +1,10 @@
+[package]
+name = "librepuff"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+log = "0.4"
+bit-vec = "0.6"
+byteorder = "1"
+libobfuscate = { path = "../libobfuscate" }

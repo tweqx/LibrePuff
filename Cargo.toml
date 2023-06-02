@@ -1,0 +1,6 @@
+[workspace]
+members = [
+	"librepuff",
+	"libobfuscate",
+	"repuff",
+]
